@@ -1,5 +1,5 @@
 # Camera Geometric Calibration
-![alt text](https://github.com/aalexa201222/Camera-geometric-calibration/blob/0e4242d545020719d763b59ef6e785b60f815b09/calibration.jpg)?raw=true)
+![alt text](https://github.com/aalexa201222/Camera-geometric-calibration/blob/0e4242d545020719d763b59ef6e785b60f815b09/calibration.jpg) ?raw=true)
 ## Overview
 
 This project implements geometric camera calibration using Python and OpenCV. It's designed to calibrate cameras based on images of a chessboard captured under different orientations and positions. This calibration is crucial for accurate 3D reconstructions and computer vision applications.
